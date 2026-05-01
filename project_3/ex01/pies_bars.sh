@@ -1,0 +1,1 @@
+termgraph data.txt --color {cyan,magenta,yellow,red}

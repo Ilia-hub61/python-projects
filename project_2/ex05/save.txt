@@ -1,0 +1,3 @@
+Report
+We made 11 observations on a coin flip: 5 times the eagle fell out and 6 times the tails fell out. The probabilities are 45.45% and 54.55% respectively.
+Our prediction is that in the next 3 observations 0 tails and 3 eagles will fall out.

@@ -1,0 +1,4 @@
+Apples 5 16 21 11
+Bananas 8 25 33 17
+Cherries 2 52 50 102
+Dates 6 0 32 38

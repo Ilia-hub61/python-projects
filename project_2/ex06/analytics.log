@@ -1,0 +1,19 @@
+2025-07-13 20:13:35,321 Initializing Research with path: data.csv
+2025-07-13 20:13:35,322 Reading file: data.csv
+2025-07-13 20:13:35,322 File read successfully, 11 rows
+2025-07-13 20:13:35,322 Initializing Calculations
+2025-07-13 20:13:35,322 Initializing Analytics
+2025-07-13 20:13:35,322 Initializing Calculations
+2025-07-13 20:13:35,322 Reading file: data.csv
+2025-07-13 20:13:35,322 File read successfully, 11 rows
+2025-07-13 20:13:35,322 Calculating counts of heads and tails
+2025-07-13 20:13:35,322 Counts: heads=5, tails=6
+2025-07-13 20:13:35,322 Calculating fractions
+2025-07-13 20:13:35,322 Fractions: (45.45454545454545, 54.54545454545454)
+2025-07-13 20:13:35,322 Predicting random for 3 steps
+2025-07-13 20:13:35,322 Random prediction: [[0, 1], [0, 1], [0, 1]]
+2025-07-13 20:13:35,323 Predicting last observation
+2025-07-13 20:13:35,323 Saving report to file: save.txt
+2025-07-13 20:13:35,323 Report saved successfully
+2025-07-13 20:13:35,323 Sending message to Telegram: The report has been successfully created
+2025-07-13 20:13:35,540 Telegram message sent successfully
